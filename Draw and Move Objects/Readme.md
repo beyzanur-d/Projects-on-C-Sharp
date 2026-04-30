@@ -3,6 +3,8 @@
 C# ve WPF kullanılarak geliştirilmiş basit bir Canvas uygulaması.
 Araba ve çiçek şekilleri çizilir; klavye ile hareket ettirilebilir.
 
+![Tasarım](https://github.com/beyzanur-d/Projects-on-C-Sharp/image.jpg)
+
 ## Özellikler
 
 - Canvas üzerinde araba (gövde, cam, tekerlekler) ve çiçek (merkez + 8 yaprak) çizimi
