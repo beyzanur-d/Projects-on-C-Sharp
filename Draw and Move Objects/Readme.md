@@ -3,7 +3,7 @@
 C# ve WPF kullanılarak geliştirilmiş basit bir Canvas uygulaması.
 Araba ve çiçek şekilleri çizilir; klavye ile hareket ettirilebilir.
 
-![Tasarım](https://github.com/beyzanur-d/Projects-on-C-Sharp/Draw%20and%20Move%20Objects/image.png)
+![Tasarım](image.png)
 
 ## Özellikler
 
