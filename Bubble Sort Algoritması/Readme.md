@@ -1,4 +1,4 @@
-#Bubble Sort Algoritması
+# Bubble Sort Algoritması
 Bubble Sort, sıralanmamış bir diziyi sıralamak için kullanılan basit bir algoritma türüdür. Algoritma, dizi elemanlarını ardışık olarak karşılaştırır ve gerekirse yer değiştirir. Bu işlem, dizideki en büyük elemanın en sona gitmesini sağlar. Algoritma, tüm dizi sıralanana kadar bu işlemi tekrarlar.
 
 ## Nasıl Çalışır?
